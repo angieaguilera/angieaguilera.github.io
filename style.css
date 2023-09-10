@@ -5,7 +5,7 @@ body{
 }
 body{
     background: #f6f5f7; 
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif, 'Times New Roman';
     color: #3E363F;
 }
 #contenedor{
@@ -61,11 +61,11 @@ button {
       color: #FFFFFF;
       text-transform: uppercase;
       letter-spacing: 1px;
-      transition: transform 20ms ease-in;
+      transition: transform 5ms ease-in;
   }
   
   button:active {
-      transform: scale(0.95);
+      transform: scale(0.93);
   }
   #error{
     color: red;
